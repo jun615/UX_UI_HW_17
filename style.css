@@ -86,3 +86,57 @@ body {
   left: 50%;
   top: -615px;
 }
+.footer {
+  background-color: #233a4f;
+  height: 300px;
+}
+
+.footer li {
+  color: white;
+  text-decoration: none;
+  font-family: "Lato", sans-serif;
+  text-decoration: none;
+  padding-top: 50px;
+  margin: 40px;
+
+  display: inline-block;
+  align-items: center;
+}
+.menufooter {
+  position: relative;
+  left: 630px;
+  top: 50px;
+  padding: 0;
+  margin: 0;
+}
+.footerlogo {
+  text-align: end;
+  font-size: 30px;
+  background-color: #952525;
+  height: 300px;
+  width: 17%;
+  font-family: "Lato", sans-serif;
+  display: inline-block;
+  color: white;
+  text-align: end;
+  align-items: flex-end;
+  position: relative;
+  bottom: 146px;
+
+  padding: 0;
+  margin: 0;
+}
+.footerjun {
+  position: absolute;
+  right: 57px;
+  bottom: -8px;
+  font-size: 80px;
+  padding: 0;
+  margin: 0;
+}
+.footerjunn {
+  position: absolute;
+  right: 7px;
+  bottom: 5px;
+  font-size: 50px;
+}
